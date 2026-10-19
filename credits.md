@@ -1,9 +1,3 @@
-All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
+All the music from this mod was made by [Andreas Waldetoft][https://andreaswaldetoft.com/] and owned by [Paradox Interactive][https://www.paradoxinteractive.com/].
 
-* [alien](https://thenounproject.com/term/alien/1820539) by Minh Do
-* [raygun](https://thenounproject.com/term/raygun/11236/) by Dominik Grob
-* [vr](https://thenounproject.com/term/vr/2334639) by Mahmure Alp
-* [Human cloning ](https://thenounproject.com/term/human-cloning/1581556/) by Gan Khoon Lay 
-
-The following is from [freesound](https://freesound.org) licensed under the Creative Commons 0 License. 
-* [phaser](https://freesound.org/people/IanStarGem/sounds/341831/) modified, by IanStarGem
+I do not any of the music, and I wish you support the people that helped make Hearts of Iron IV.
