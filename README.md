@@ -1,5 +1,9 @@
-# Unciv-mod-example
+#     Hearts-of-Iron-IV-OST
 
-An example mod for Unciv, that adds one new Civilization.
+![alt text][HOI4]
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+[HOI4]: https://jetta.vgmtreasurechest.com/soundtracks/hearts-of-iron-iv-original-game-soundtrack-2019/00%20Front.jpg
+
+
+
+A mod that dds the Hearts of Iron IV OST onto Unciv
