@@ -2,7 +2,7 @@
 
 A mod that adds the Hearts of Iron IV OST into Unciv
 
-![alt text][HOI4]
+![alt text](preview.jpg)
 
 #     Installation
 
