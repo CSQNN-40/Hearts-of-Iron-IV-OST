@@ -6,10 +6,13 @@ A mod that adds the Hearts of Iron IV OST into Unciv
 
 #     Installation
 
-1. Load Unciv
-2. Visit mods
-3. Find and download "Hearts Of Iron IV OST"
-4. Enable "Permanent audiovisual mod"
+1. Copy this repo's link
+2. Go to Unciv
+3. Visit the mod menu
+4. Find and click "Download mod from URL"
+5. Paste the repo link
+6. Press download
+7. Make sure "permanent audiovisual mod" is enabled. If not, toggle it. 
 
 ## Credits & Copyright
 
